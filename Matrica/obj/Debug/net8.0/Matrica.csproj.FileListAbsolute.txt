@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\bin\Debug\net8.0\Matrica.exe
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\bin\Debug\net8.0\Matrica.deps.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\bin\Debug\net8.0\Matrica.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\bin\Debug\net8.0\Matrica.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\bin\Debug\net8.0\Matrica.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\Matrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\Matrica.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\Matrica.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\Matrica.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\Matrica.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\refint\Matrica.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\Matrica.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\Matrica.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\Matrica\obj\Debug\net8.0\ref\Matrica.dll

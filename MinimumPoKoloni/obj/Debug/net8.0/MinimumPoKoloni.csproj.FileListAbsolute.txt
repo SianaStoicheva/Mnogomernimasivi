@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.exe
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.deps.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\bin\Debug\net8.0\MinimumPoKoloni.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\refint\MinimumPoKoloni.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\MinimumPoKoloni.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\MinimumPoKoloni\obj\Debug\net8.0\ref\MinimumPoKoloni.dll

@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\bin\Debug\net8.0\LotarialenBilet.exe
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\bin\Debug\net8.0\LotarialenBilet.deps.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\bin\Debug\net8.0\LotarialenBilet.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\bin\Debug\net8.0\LotarialenBilet.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\bin\Debug\net8.0\LotarialenBilet.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\LotarialenBilet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\LotarialenBilet.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\LotarialenBilet.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\LotarialenBilet.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\LotarialenBilet.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\refint\LotarialenBilet.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\LotarialenBilet.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\LotarialenBilet.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\LotarialenBilet\obj\Debug\net8.0\ref\LotarialenBilet.dll

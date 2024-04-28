@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E889A5-A62B-4D56-91A9-6A9215A152AF}|LotarialenBilet\\LotarialenBilet.csproj|c:\\users\\lenovo\\desktop\\siana\\mnogomerni masivi\\lotarialenbilet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E889A5-A62B-4D56-91A9-6A9215A152AF}|LotarialenBilet\\LotarialenBilet.csproj|solutionrelative:lotarialenbilet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEE2D8F3-3B0C-4A69-9DDE-244A6A287C81}|MinimumPoKoloni\\MinimumPoKoloni.csproj|c:\\users\\lenovo\\desktop\\siana\\mnogomerni masivi\\minimumpokoloni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEE2D8F3-3B0C-4A69-9DDE-244A6A287C81}|MinimumPoKoloni\\MinimumPoKoloni.csproj|solutionrelative:minimumpokoloni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF7D59B-A6C8-4C1A-AB25-0A216EE45FF1}|Matrica\\Matrica.csproj|c:\\users\\lenovo\\desktop\\siana\\mnogomerni masivi\\matrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF7D59B-A6C8-4C1A-AB25-0A216EE45FF1}|Matrica\\Matrica.csproj|solutionrelative:matrica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{899B444F-ED45-44B7-90E7-814620686848}|SrednoAritmrticno\\SrednoAritmrticno.csproj|c:\\users\\lenovo\\desktop\\siana\\mnogomerni masivi\\srednoaritmrticno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{899B444F-ED45-44B7-90E7-814620686848}|SrednoAritmrticno\\SrednoAritmrticno.csproj|solutionrelative:srednoaritmrticno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\LotarialenBilet\\Program.cs",
+              "RelativeDocumentMoniker": "LotarialenBilet\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\LotarialenBilet\\Program.cs",
+              "RelativeToolTip": "LotarialenBilet\\Program.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAQwHQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T06:12:53.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\MinimumPoKoloni\\Program.cs",
+              "RelativeDocumentMoniker": "MinimumPoKoloni\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\MinimumPoKoloni\\Program.cs",
+              "RelativeToolTip": "MinimumPoKoloni\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T05:49:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\SrednoAritmrticno\\Program.cs",
+              "RelativeDocumentMoniker": "SrednoAritmrticno\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\SrednoAritmrticno\\Program.cs",
+              "RelativeToolTip": "SrednoAritmrticno\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:34:14.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\Matrica\\Program.cs",
+              "RelativeDocumentMoniker": "Matrica\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Siana\\Mnogomerni masivi\\Matrica\\Program.cs",
+              "RelativeToolTip": "Matrica\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T12:16:39.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

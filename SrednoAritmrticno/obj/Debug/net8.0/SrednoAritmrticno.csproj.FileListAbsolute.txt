@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\bin\Debug\net8.0\SrednoAritmrticno.exe
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\bin\Debug\net8.0\SrednoAritmrticno.deps.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\bin\Debug\net8.0\SrednoAritmrticno.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\bin\Debug\net8.0\SrednoAritmrticno.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\bin\Debug\net8.0\SrednoAritmrticno.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\SrednoAritmrticno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\SrednoAritmrticno.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\SrednoAritmrticno.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\SrednoAritmrticno.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\SrednoAritmrticno.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\refint\SrednoAritmrticno.dll
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\SrednoAritmrticno.pdb
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\SrednoAritmrticno.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\Mnogomerni masivi\SrednoAritmrticno\obj\Debug\net8.0\ref\SrednoAritmrticno.dll
